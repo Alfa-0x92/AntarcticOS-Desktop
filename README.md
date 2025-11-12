@@ -1,3 +1,3 @@
 # AntarcticOS-Desktop
 
-Variant: GNU/Linux Based OS
+Variant: Open Source GNU/Linux Based OS
