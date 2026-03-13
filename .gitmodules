@@ -1,9 +1,12 @@
 [submodule "Kernel"]
 	path = Kernel
 	url = https://github.com/torvalds/linux.git
+	branch = v6.16
 [submodule "Init/OpenRC"]
 	path = Init/OpenRC
 	url = https://github.com/OpenRC/openrc.git
+	branch = openrc-0.12.2
 [submodule "Init/SystemD"]
 	path = Init/SystemD
 	url = https://github.com/systemd/systemd.git
+	branch = v258
